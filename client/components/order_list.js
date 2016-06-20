@@ -24,10 +24,6 @@ const OrderList = React.createClass({
 
   },
 
-  stopFakeOrders: function(){
-    clearInterval(fakeOrderGen);
-  },
-
   addOrder: function (e){
     this.setState({order_count: this.state.order_count + 1});
     this.setState({
