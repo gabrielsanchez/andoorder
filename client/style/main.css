@@ -1,0 +1,18 @@
+.order-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 300px;
+}
+
+.navbar-header{
+  width:100%;
+  padding:0 50px;
+}
+
+.help-btn{
+    float:right;
+}
