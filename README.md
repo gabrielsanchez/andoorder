@@ -1,4 +1,4 @@
-#Ando Order
+# Ando Order
 React + Meteor app.
 
 ##This Project Uses:
@@ -8,10 +8,10 @@ React + Meteor app.
 - Mocha
 - Faker.js
 
-##Demo
+## Demo
 https://youtu.be/7GHrnU7YNhI
 
-##Install
+## Install
 Install Meteor
 ```
 curl https://install.meteor.com/ | sh
